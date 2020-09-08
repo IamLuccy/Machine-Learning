@@ -5,3 +5,4 @@ import numpy as np
 #print (np.__version__)
 
 print("Hello")
+print ("Hi there")
