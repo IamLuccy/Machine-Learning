@@ -4,3 +4,4 @@ import numpy as np
 # check Version on system.
 #print (np.__version__)
 
+print("Hello")
